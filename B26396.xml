@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The loyal garland of mirth and pastime Set forth in sundry pleasant [n]ew songs; the loyal health. An excellent new song of advice to bat[chel]ors, to refrain the society of wanton ladys. A new song of the Welshmans misfortune [sel]ling his land, and travelling up to London, [to se]ek the philosophers stone. A song of the bride and bridegroom. A pleasant new play-house song. [Al]l very pleasant and delightful to read. By S. M. [Th]ere is likewise added a coppy of the excellent Bell-mans verses.</title>
+            <author>S. M.</author>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26396</idno><idno type="EEBO-CITATION">99828728</idno>
+  <idno type="VID">207586</idno>
+  <idno type="EEBO-PROQUEST">2264215566</idno>
+  
+            <idno type="STC">Wing M79C</idno>
+            <idno type="PROQUEST">99828728</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828728e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207586)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1916:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The loyal garland of mirth and pastime Set forth in sundry pleasant [n]ew songs; the loyal health. An excellent new song of advice to bat[chel]ors, to refrain the society of wanton ladys. A new song of the Welshmans misfortune [sel]ling his land, and travelling up to London, [to se]ek the philosophers stone. A song of the bride and bridegroom. A pleasant new play-house song. [Al]l very pleasant and delightful to read. By S. M. [Th]ere is likewise added a coppy of the excellent Bell-mans verses.</title>
+                  <author>S. M.</author>
+               </titleStmt>
+               <extent>[16] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>[Print]ed by J.M. for I. Deacon, at the sign of the Angel in  Guilt-Spur-Street, without Newgate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A.</note>
+                  <note>With woodcut illustrations on the title page.</note>
+                  <note>In verse.</note>
+                  <note>Running title reads: Of mirth and pastime. A loyal garland.</note>
+                  <note>Caption title on A1v reads: A loyal garland of mirth and pastime.</note>
+                  <note>Imperfect: tightly bound, cropped at head.</note>
+                  <note>Reproduction of the original in the Magdalene College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English wit and humor --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207586:1"/>
+            <pb facs="tcp:207586:1"/>
+            <p>Loyal GARLAND Of <hi>MIRTH</hi> and Pastime.</p>
+            <p>Set forth in sundry Pleasant <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>EW SONGS;
+<list>
+                  <item>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. The Loyal Health.</item>
+                  <item>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. An excellent New Song of Advice to Bat<g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ors, to refrain the society of wanton <hi>Ladys.</hi>
+                  </item>
+                  <item>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. A New Song of the <hi>Welshmans</hi> misfortune <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>lling his Land, and travelling up to <hi>London,</hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eek the Philosophers Stone</item>
+                  <item>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. A Song of the Bride and Bridegroom.</item>
+                  <item>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. A Pleasant New Play-House Song.</item>
+               </list>
+            </p>
+            <p>
+               <hi>All very Pleasant and Delightful to Read.</hi> By S. M.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ere is likewise added a Coppy of Excellent <hi>Bell-Mans</hi> Verses.</p>
+            <figure>
+               <figDesc>woodcut in two panels: wreath and bell-man at night</figDesc>
+            </figure>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ted by <hi>J.</hi> M. for <hi>I. Deacon,</hi> at the Sign of the <hi>Angel</hi> in Guilt-Spur-Street, without <hi>Newgate</hi> 1635.</p>
+         </div>
+      </front>
+      <body>
+         <div type="verse_anthology">
+            <pb facs="tcp:207586:2"/>
+            <head>A <hi>Loyal Garland</hi> OF Mirth and Pastime.</head>
+            <div type="song">
+               <head>An Excellent New SONG of the Loyal Healt<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to the Royal Train.</head>
+               <opener>The Tune is, <hi>The Cannons Rore.</hi>
+               </opener>
+               <lg>
+                  <l>LEt true hearts rejoyce amain,</l>
+                  <l>Fill a flowing Bowl again,</l>
+                  <l>Drink to all the Royal Train,</l>
+                  <l>Great <hi>JAMES,</hi> also <hi>QƲEEN MARY,</hi>
+                  </l>
+                  <l>He's a Whigg that spares his Coin,</l>
+                  <l>And will not in love combine,</l>
+                  <l>To drink a swimming Glass of wine,</l>
+                  <l>to make him brisk and airy.</l>
+               </lg>
+               <lg>
+                  <l>All the Whiggs are Loyal now,</l>
+                  <l>To the Scepter they will bow,</l>
+                  <l>Solemnly they Swear and Vow,</l>
+                  <l>that <hi>Tony</hi> did deceive them,</l>
+                  <l>By his cunning plotting pate,</l>
+                  <l>Undermining Church and State,</l>
+                  <l>Then beholding their sad fate,</l>
+                  <l>he in the Lurch did leave them.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207586:2"/>
+                  <l>Telling them he knew right well,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s Dark and Magick Spell,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> it was for to Rebell,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d break in open Riot:</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>aking all suspicious Fears,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> their Crocodilish Tears,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Ketch has paid them their Arrears,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nd now they're all at quiet.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>Advice for Batchelors, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> refrain the Society of Wanton Ladies of Pleasure.</head>
+               <argument>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> likewise to seek a Kind and Vertuous Wife,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> bring<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th joy and comfort to thy Life.</l>
+               </argument>
+               <opener>
+                  <hi>To the Tune of,</hi> The Doubting Virgin.</opener>
+               <lg>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>Adies of a wanton Carriage,</l>
+                  <l>they will seldom constant be,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e not the bonds of Marriage,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ey will have their Liberty;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eir Courting, and their sporting,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eir fond Love will soon decay,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y are ranging, often changing,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>'ry moment when they may.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>er trust her with thy treasure,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t hath wanton rouling Eyes,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> addicted so to pleasure,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> she never keeps the Prize:</l>
+                  <pb facs="tcp:207586:3"/>
+                  <l>Often toying and enjoying,</l>
+                  <l>fond Embraces, when she sees,</l>
+                  <l>You are missing. she'l be Kissing,</l>
+                  <l>those that can her better please.</l>
+               </lg>
+               <lg>
+                  <l>Never set your heart on Beauty,</l>
+                  <l>chuse for one discreet and wise,</l>
+                  <l>Then it will appear your duty,</l>
+                  <l>for to love her, and will prize</l>
+                  <l>Such a Blessing, when possessing,</l>
+                  <l>seeing they are hard to find,</l>
+                  <l>They all her days, will speak her praise,</l>
+                  <l>that hath a vertuous courteous mind.</l>
+               </lg>
+               <lg>
+                  <l>Misses they are often tainted,</l>
+                  <l>when the <hi>French-man</hi> them assail,</l>
+                  <l>Though they're powder'd, patcht, and painte<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>yet be cautious of their tail:</l>
+                  <l>Least they fire your desire,</l>
+                  <l>with the <hi>Covent Garden</hi> Gout,</l>
+                  <l>Besides your pelf, she'l get by stealth,</l>
+                  <l>they have ways to find it out.</l>
+               </lg>
+               <lg>
+                  <l>He that Courteth ev'ry stranger,</l>
+                  <l>many times is hard put to't,</l>
+                  <l>Then if thoul't avoid the danger,</l>
+                  <l>take a Wife of good repute:</l>
+                  <l>One that's smiling, ne'r reviling,</l>
+                  <l>she that knows not how to Scold,</l>
+                  <pb facs="tcp:207586:3"/>
+                  <l>Su<gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> a Creature, none more sweeter,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e is worth her weight in Gold.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>n your pleasures will be flowing,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e those sweet and fragrant Flowers,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t in time of Spring are growing,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ater'd by those pleasant showers:</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s you'l nourish Love, and cherish,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>lways perfectly agree,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r gracing, and Embracing,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>er in Love and Unity.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>New SONG of the <hi>Welsh-mans</hi> misfortune, that Sold his Land to travel up to <hi>London,</hi> to seek the <hi>Philosophers Stone.</hi>
+               </head>
+               <opener>To the Tune of, <hi>The Crafty Miss.</hi>
+               </opener>
+               <lg>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>Oung <hi>Shonny a Morgan</hi> of late,</l>
+                  <l>he rode up to <hi>Londons</hi> fair Town,</l>
+                  <l>
+                     <hi>Wales</hi> her had sold her Estate,</l>
+                  <l>for Forty-five Pounds and a Crown:</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d strait up to <hi>London</hi> her Sails,</l>
+                  <l>and walking and musing alone,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r remember'd her father in <hi>Wales</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>alk of the</hi> Philosophers Stone.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>w <hi>Shonny</hi> resolving to find it,</l>
+                  <l>her makes no more stop nor delay,</l>
+                  <pb facs="tcp:207586:4"/>
+                  <l>Her Pocket with Silver was loyned,</l>
+                  <l>and thus her went strutting away,</l>
+                  <l>Her cast away all melancholly,</l>
+                  <l>for <hi>Shonny</hi> was surely high flown,</l>
+                  <l>Resolv'd to be merry and jolly,</l>
+                  <l>
+                     <hi>when her finds the</hi> Philosophers-stone.</l>
+               </lg>
+               <lg>
+                  <l>Her faster and stouter did go,</l>
+                  <l>undaunted, couragious and bold,</l>
+                  <l>If that her can find it Kusso,</l>
+                  <l>her will turn all her Silver to Gold;</l>
+                  <l>While <hi>Shonny</hi> his fancies was feeding,</l>
+                  <l>a Ruffin met her all alone,</l>
+                  <l>And quickly did stop her proceeding,</l>
+                  <l>
+                     <hi>to find the</hi> Philosophers Stone.</l>
+               </lg>
+               <lg>
+                  <l>The Thief gave the word of Command,</l>
+                  <l>sir stand, and deliver your Purse;</l>
+                  <l>Poor <hi>Shonny</hi> did trembling stand,</l>
+                  <l>O this now was worse<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and worse:</l>
+                  <l>Her was forc'd to obey her Command,</l>
+                  <l>though <hi>Shonny</hi> made pittiful moan,</l>
+                  <l>Her wisht her had ne'r sold her Land,</l>
+                  <l>
+                     <hi>for to seek the</hi> Philosophers Stone.</l>
+               </lg>
+               <lg>
+                  <l>The Thief rode away, and did leave her,</l>
+                  <l>her looked like Death in the face,</l>
+                  <l>The thoughts of her money did grieve her,</l>
+                  <l>O this was a pittiful case:</l>
+                  <pb facs="tcp:207586:4"/>
+                  <l>For now the poor <hi>Welsh-man</hi> was undone,</l>
+                  <l>her sighs and makes pittiful moan,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d will no more come up to <hi>London,</hi>
+                  </l>
+                  <l>
+                     <hi>to seek the</hi> Philosophers Stone.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>Song of the <hi>BRIDE</hi> and <hi>BRIDEGROOM.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y to the Bride-groom, fill the Skies,</l>
+                  <l>With pleasing sounds of welcome joys;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to the Bride, a lasting bliss,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d every day may prove like this.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> that enjoy the Beautious fair,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> true to Love, and eke take care;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> that which plagues a Woman most</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> when her Expectations crost.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ever was Marriage joys divine</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> when two does in one combine;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> that proves false, himself does cheat,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e sick that taste, but cannot eat.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hat is a Maiden-head? O what?</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> which weak fools so often prate?</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 'tis a Virgins pride and boast,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>at ne'r was found but when 'twas lost.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>A SONG.</head>
+               <sp>
+                  <speaker>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>an.</speaker>
+                  <lg>
+                     <l> O Be kind, my Dear be kind,</l>
+                     <l>Whilst our Loves and we be young,</l>
+                     <l>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e kind, my Dear be kind,</l>
+                     <l>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>hilst our Loves and we be young,</l>
+                     <l>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e shall find, we shall find,</l>
+                     <l>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e will change the Face and mind,</l>
+                     <pb facs="tcp:207586:5"/>
+                     <l>Both will not continue long.</l>
+                     <l>O be kind, my Dear be kind;</l>
+                     <l>Both will not continue long,</l>
+                     <l>O be kind, my Dear be kind,</l>
+                     <l>Both will not continue long,</l>
+                     <l>O be kind, my Dear be kind.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Woman.</speaker>
+                  <lg>
+                     <l> O I Love and fear to loose you,</l>
+                     <l>Therefore tis I must refuse you;</l>
+                     <l>When I have yielded you my Crown,</l>
+                     <l>You'l not more obedience own:</l>
+                     <l>O I Love, and fear to love you,</l>
+                     <l>Therefore tis I must refuse you.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <lg>
+                     <l> The fair by kindness regains,</l>
+                     <l>by Cruelty destroy,</l>
+                     <l>If you can charm with the pangs</l>
+                     <l>of Love, then what can you do,</l>
+                     <l>Can you do with the joy,</l>
+                     <l>the Fair by kindness Reigns,</l>
+                     <l>By Cruelty destroy,</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Woman.</speaker>
+                  <l> I fear to yield, but cannot deny,</l>
+               </sp>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <l> If you do, then I shall dye,</l>
+               </sp>
+               <sp>
+                  <speaker>Woman.</speaker>
+                  <l> So shall I, so shall I.</l>
+               </sp>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <lg>
+                     <l> Then come to joy, come to joy, come to joy</l>
+                     <l>Better Love then we should dye,</l>
+                     <l>Better love, better love, then we should dye;</l>
+                     <l>Come to joy, come to joy, come to joy,</l>
+                     <l>Better Love then we should dye,</l>
+                     <l>Joy come to joy, come to joy, come joy,</l>
+                     <l>Come to joy, come to joy.</l>
+                  </lg>
+               </sp>
+            </div>
+            <div type="Bellman_collection">
+               <pb facs="tcp:207586:5"/>
+               <head>Here is Copies of <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>oyal</hi> Bell-Man's <hi>Verses.</hi>
+               </head>
+               <div type="poem">
+                  <head>
+                     <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>irst,</hi> Ʋpon the d<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sire of His Majesties Long and Happy Reign.</head>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>He Lord preserve the King, and all his train</l>
+                  <l>And send him still a long and happy Reign;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>at he may still defend both Churh and State,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d make our King as good as he is Great;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>at from thy Faith he never may depart,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t be like <hi>David,</hi> after thine own heart:</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>at when this present life he doth lay down,</l>
+                  <l>may be chang'd for an Immortal Crown.</l>
+               </div>
+               <div type="poem">
+                  <head>On Saint <hi>Michael</hi>
+                  </head>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>Aint <hi>Michael</hi> and his Angels did withstand</l>
+                  <l>The fearful Dragon, with a mighty Hand;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e Dragon and his Angels them assail,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t they had never power to prevail;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> out of Heaven he was clearly thrown,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> being there again was never known:</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t men be wise, and all Temptations shun,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d praise the Lord for his beloved Son.</l>
+               </div>
+               <div type="poem">
+                  <l>The Summers smiles has bid us all adieu,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d I am come the while to visit you;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ith Lines in Verse my Masters I will greet,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d with my Staff and Bell will walk the street,</l>
+                  <pb facs="tcp:207586:6"/>
+                  <l>And call upon you all to Watch and Pray,</l>
+                  <l>And tell you how your time doth pass away:</l>
+                  <l>O serve the Lord with reverence and fear,</l>
+                  <l>For we have not a biding City here.</l>
+               </div>
+               <div type="poem">
+                  <head>On Saint <hi>Luke.</hi>
+                  </head>
+                  <l>SAint <hi>Luke,</hi> that faithful Servant of the Lor<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>That writ our blessed Saviours Sacred word</l>
+                  <l>That men thereby might know his Holy Will</l>
+                  <l>And then comply, his Laws for to fulfill:</l>
+                  <l>Then let us all before our days are spent,</l>
+                  <l>Both great and small, now labour to Repent,</l>
+                  <l>Then when we shall resign our mumuring breat<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>We may with smiles, embrace the thoughts o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Death</l>
+               </div>
+               <div type="poem">
+                  <head>On <hi>All-Saints.</hi>
+                  </head>
+                  <l>ALL blessed Saints are free from grief &amp; pai<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>with glorious Angels they shall live &amp; reign<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>In perfect Peace, and true Felicity,</l>
+                  <l>They all enjoy to all Eternity:</l>
+                  <l>Then let us strive to live so Cirumspect,</l>
+                  <l>That we, with them, may make up Gods Elect</l>
+               </div>
+               <div type="poem">
+                  <head>On <hi>CRISPIN.</hi>
+                  </head>
+                  <l>LEt Princely <hi>Crispin</hi> never be forgot,</l>
+                  <l>Keep still this day, tho' he himself is not;</l>
+                  <l>Let <hi>Gentle-Crafts</hi>-Men never be dismay'd,</l>
+                  <l>Remember <hi>Crispin</hi> once was of our Trade,</l>
+                  <l>And all that unto <hi>Crispin</hi> bears Good-will,</l>
+                  <l>Drink <hi>Crispin</hi>'s Health, but look you do not spill</l>
+                  <l>And in your Mirth pray lovingly agree,</l>
+                  <l>And have a care of Drunken <hi>Barnaby.</hi>
+                  </l>
+               </div>
+               <div type="poem">
+                  <pb facs="tcp:207586:6"/>
+                  <head>In a Dark Night.</head>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>He Moon and Stars are in Obscurity,</l>
+                  <l>The Night's so dark, my hand I cannot see</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e Light gives Comfort when it doth appear,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Darkness fills the heart with dread and fear;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>n let us pray to God most fervently,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> give us Light to all Eternity.</l>
+               </div>
+               <div type="poem">
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y Masters all, you well do know,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>alk abroad in Frost and Snow;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> many a bitter Storm endure,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>opes to keep you all secure:</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>orms of Wind, or Hail and Rain,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> duty I will not refrain;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>en <hi>Christmas</hi> comes I hope to see</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r Love and Liberality.</l>
+               </div>
+               <div type="poem">
+                  <head>On <hi>Gun-Powder Treason.</hi>
+                  </head>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>Y Masters all, awake from sleep, I pray,</l>
+                  <l>And think upon the mercies of this day,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>en Prince, and all the Pillars of the Land,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> on the very brink of Ruine stand:</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e House of Lords, and Commons eke also,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ey all had perisht in that fatal blow,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> not the Lord himself stept in between,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hat a dismal slaughter had it been:</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> God is good and merciful always,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> let us now sound forth his worthy praise.</l>
+               </div>
+               <div type="poem">
+                  <pb facs="tcp:207586:7"/>
+                  <head>On Saint <hi>Andrew.</hi>
+                  </head>
+                  <l>SAint <hi>Andrew</hi> he was called of the Lord,</l>
+                  <l>And readily he did obey his Word;</l>
+                  <l>He clos'd with Christ, and did in him abide,</l>
+                  <l>Took up the Cross, and on the Cross he dy'd:</l>
+                  <l>The hope of Glory did support his mind,</l>
+                  <l>He in the Lord did Consolation find;</l>
+                  <l>And now he is in everlasting rest,</l>
+                  <l>With Christ, and Glorious Angels, he is blest.</l>
+               </div>
+               <div type="poem">
+                  <head>On Saint <hi>Thomas.</hi>
+                  </head>
+                  <l>WHen Christ was risen from the Dead,</l>
+                  <l>and came to his Disciples view;</l>
+                  <l>Then <hi>Thomas</hi> weak of Faith, he sed,</l>
+                  <l>he'd not believe that it was true,</l>
+                  <l>While he had felt his hands and side,</l>
+                  <l>where Christ for all our sins did bleed,</l>
+                  <l>And then the Truth was verify'd,</l>
+                  <l>and <hi>Thomas</hi> did believe indeed:</l>
+                  <l>But let us beg for sounder Faith,</l>
+                  <l>and cleanse our hearts from sin so foul;</l>
+                  <l>Then Christ indeed, will interceed</l>
+                  <l>for every poor Immortal Soul.</l>
+               </div>
+               <div type="poem">
+                  <head>On <hi>Christmas.</hi>
+                  </head>
+                  <l>THis blessed day let all the world rejoyce,</l>
+                  <l>with thankful hearts, &amp; with an <hi>humble voice</hi>
+                     <gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>This day was born the Lord of life, &amp; then</l>
+                  <l>He brought Salvation to the Sons of men:</l>
+                  <l>Get faith in Christ whilst thou hast time &amp; spac<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>Why should poor sinners slight the means of <hi>gr<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi>
+                  </l>
+                  <pb facs="tcp:207586:7"/>
+                  <l>Live Holy here, and all Temptations shun,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d Praise the Lord for his beloved Son.</l>
+               </div>
+               <div type="poem">
+                  <head>On Saint <hi>Stephen.</hi>
+                  </head>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>Aint <hi>Stephen</hi> was a Martyr meek and mild,</l>
+                  <l>When he was stoned, yet he ne'r revil'd;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d though they Martyr'd him with one accord,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> kneeled down and prayed to the Lord,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>at he would not impute it to their charge,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>pains of death his love did so inlarge:</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ould we but strive each other to forgive,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> what a blessed state would Christians live.</l>
+               </div>
+               <div type="poem">
+                  <head>On Saint <hi>Iohn.</hi>
+                  </head>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>Eloved <hi>Iohn</hi> did lean on Christ his breast,</l>
+                  <l>And was with Glorious Revelation blest;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d let him see and know, and understand,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hat he would do by his Almighty hand:</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> hath foretold such strange and mighty things</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> that Majesty, the King of Kings:</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t men consider well, yea, Watch and Pray,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d think upon the latter Judgement-day.</l>
+               </div>
+               <div type="poem">
+                  <head>On <hi>Innocents.</hi>
+                  </head>
+                  <l>WHen as King <hi>Herod</hi> he had heard the News</l>
+                  <l>The Child was born that should be King of <hi>Iews</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of the Wise-men strictly did enquire,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hen as his Star did first to them appear?</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d he, go find the Child, then let me know,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>at I my self may Worship him also.</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> God that knew his heart, did him prevent,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>Ioseph</hi> with the Child to <hi>Aegypt</hi> went:</l>
+                  <pb facs="tcp:207586:8"/>
+                  <l>The Wise-men they went home another way,</l>
+                  <l>And <hi>Herods</hi> wrath did many Infants slay.</l>
+               </div>
+               <div type="poem">
+                  <l>Young Maidens that would fain good Husband find</l>
+                  <l>Be not too froward, no, nor yet too kind;</l>
+                  <l>Be wise and chaste, and keep your Scutcheon cle<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>Let Vertue be the Helm by which you steer:</l>
+                  <l>And though at present you may lye alone,</l>
+                  <l>In time you may have Husbands every one.</l>
+               </div>
+               <div type="poem">
+                  <l>The Frost methinks, doth catch me by the nos<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>In spight of Socks and Shooes, my heels &amp; toes,</l>
+                  <l>It freezeth hard, the Moon it shineth clear,</l>
+                  <l>This Frost will hold a while, indeed I fear;</l>
+                  <l>Lye close I say, and keep each other warm,</l>
+                  <l>I hope you are all safe and from free harm.</l>
+               </div>
+               <div type="poem">
+                  <l>Let men rejoyce with heart and voice,</l>
+                  <l>what cause hath Subjects to complain?</l>
+                  <l>Let love encrease, for we have Peace,</l>
+                  <l>while mighty <hi>Iames</hi> our King doth Reign:</l>
+                  <l>Let love and Loyalty encrease,</l>
+                  <l>that thorow <hi>Europe</hi> it may ring,</l>
+                  <l>That <hi>England</hi> doth enjoy her Peace,</l>
+                  <l>under a mighty potent King.</l>
+               </div>
+               <div type="poem">
+                  <head>On <hi>New-Years Day.</hi>
+                  </head>
+                  <l>GOd send my Masters all a happy Year,</l>
+                  <l>In Peace, and also plenty of good chea<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</l>
+                  <l>And send you many a happy day to see,</l>
+                  <l>In health and strength, in life and liberty:</l>
+                  <pb facs="tcp:207586:8"/>
+                  <l>This New-years day except of my good-will,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Humble Servant, and poor Bell-man still.</l>
+               </div>
+               <div type="poem">
+                  <head>On <hi>Twelfth-day.</hi>
+                  </head>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>His is a day throughout the Land &amp; Nation,</l>
+                  <l>Of Pleasure, Pastime, and of Recreation:</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>using King and Queen, this is the sport,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>re will be many Kings, but they will keep no Court</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> laugh &amp; joak, &amp; tell a merry tale,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Crown their heads with nappy <hi>Christmas Ale</hi>
+                  </l>
+               </div>
+               <div type="poem">
+                  <head>On Saint <hi>Paul.</hi>
+                  </head>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>int <hi>Paul</hi> with Letters to <hi>Damascus</hi> sent,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ur blessed Saviour did him prevent;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>urn'd his heart, a Glorious Reformation.</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> in his troubles gave him Consolation;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>as a chosen Vessel of the Lord,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>own of Glory, this was his Reward.</l>
+               </div>
+               <div type="poem">
+                  <head>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the Martyrdom of King <hi>Charles</hi> the First, of Blessed Memory.</head>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eat <hi>Charles</hi> the 1st. that once was <hi>Englands king</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hose <hi>pious</hi> life did make the <hi>nation</hi> ring</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ruel Faction did create a strife,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> put a period to his Princely life;</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ich we now in sorrow do relate,</l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ar a Judgement for that cruel fate.</l>
+               </div>
+               <div type="poem">
+                  <pb facs="tcp:207586:9"/>
+                  <l>All hail! all you that sleep and rest,</l>
+                  <l>Awake from sleep, and sin detest;</l>
+                  <l>And think upon the day of Doom,</l>
+                  <l>When Jesus Christ himself shall come</l>
+                  <l>To Judge the World, he hath decreed,</l>
+                  <l>For ev'ry thought, word, work, and deed.</l>
+               </div>
+               <div type="poem">
+                  <head>On the <hi>Purification</hi> of the <hi>Virgin Mary.</hi>
+                  </head>
+                  <l>WHen <hi>Maries</hi> Ptrifying days were past,</l>
+                  <l>She then did bring her blessed Son at last</l>
+                  <l>Unto <hi>Ierusalem</hi> with one accord,</l>
+                  <l>There to present her first-born to the Lord:</l>
+                  <l>And thus should we observe that rule alway<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>To give the Lord the first Fruits of our days;</l>
+                  <l>All in the flower of our Youthful Spring,</l>
+                  <l>Present our hearts to God our Heavenly King.</l>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Entred according to Order.</hi>
+            </p>
+            <pb facs="tcp:207586:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
